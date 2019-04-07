@@ -2,7 +2,7 @@
 
 There are a number of ways to export data using the Saleae Logic [https://www.saleae.com/](https://www.saleae.com/). They have an article about it [here](https://support.saleae.com/user-guide/using-logic/saving-loading-and-exporting-data). 
 
-The two programs provided will produce the text representation of the exported data, depending on how you have exported it. 
+The two programs provided will produce the text representation of the exported data, depending on how you have exported it. Output will be shown on stdout/console. 
 
 ## saleae-csv2text
 
