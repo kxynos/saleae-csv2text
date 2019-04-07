@@ -1,5 +1,4 @@
 # csv2text for saleae logic 
-========
 
 There are a number of ways to export data using the Saleae Logic [https://www.saleae.com/](https://www.saleae.com/) they have an article about it [here](https://support.saleae.com/user-guide/using-logic/saving-loading-and-exporting-data). 
 
